@@ -2,7 +2,8 @@
 <img width="500" src="https://github.com/undervi/ENTER/assets/95211722/81e15cf8-a9bd-4d93-9e31-dfe13ee59d4c" />
 <br/>
 
-### 1️⃣ Repositories
+### 1️⃣ Repositories 
+> organizations에서 관리한 프로젝트로 분야별로 아래 레포지토리 참고 부탁드립니다.
 Front-End: https://github.com/AIVLE-ENTER/ENTER-FE<br/>
 Back-End: https://github.com/AIVLE-ENTER/ENTER-BE<br/>
 AI: https://github.com/AIVLE-ENTER/ENTER-AI<br/>
