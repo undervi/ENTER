@@ -37,6 +37,7 @@ AI: https://github.com/AIVLE-ENTER/ENTER-AI<br/>
 <div id="service">
    
   ## 서비스 소개
+  ![image](https://github.com/undervi/ENTER/assets/95211722/2fca7bfc-0a43-4b42-8dd5-8c6cc90bf95c)
   ><b>ENTER</b>는 기업이 제품 및 서비스에 대한 고객의 의견을 효율적으로 수집하고, 이를 토대로 비용과 시간을 절약하여 전립을 수립할 수 있게 도와주는 자동화된 소비자 만족도 조사 서비스입니다.
 </div><br/>
 
